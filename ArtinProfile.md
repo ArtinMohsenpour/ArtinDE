@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtinDE
+- 👋 Hi, I’m Artin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on small projects to earn experience 
